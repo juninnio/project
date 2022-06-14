@@ -82,6 +82,6 @@ def solve(bo):
     return False
 
 print_board(board2)
-print()
+print("--------------")
 solve(board2)
 print_board(board2)
