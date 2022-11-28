@@ -1,4 +1,4 @@
-Hi this is my school personal SQL Project!
-In this project, I'm creating a database for a school environment
-Database includes entities, attributes, and relationships.
-Please hit me up in LinkedIn for any questions!
+- Hi this is my school personal SQL Project!
+- In this project, I'm creating a database for a school environment.
+- Database includes entities, attributes, and relationships.
+- Please hit me up in LinkedIn for any questions!
