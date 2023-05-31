@@ -1,7 +1,6 @@
 -  Hi, I’m @juninnio ( Juninnio Harris )
--  I’m a student at TAFE NSW studying Information Technology, majoring in Data Engineering.
--  I'm estimated to graduate in December 2024. 
--  Currently my skills are Python, SQL, and Networking.
+-  I’m a student at TAFE NSW studying Information Technology, majoring in Data Engineering and estimated to graduate in December 2024.
+-  Currently my skills are Python, SQL, Machine learning, and Networking.
 -  Please hit me up if you have any Internship or Jobs in Tech field!.
 -  LinkedIn : https://www.linkedin.com/in/juninnio-harris
 
