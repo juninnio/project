@@ -1,0 +1,2 @@
+This is my school project for flight management system
+it is almost ready, but still has some bugs in it.
