@@ -1,4 +1,8 @@
-- Hi this is my school personal SQL Project!
-- In this project, I'm creating a database for a school environment.
-- Database includes entities, attributes, and relationships.
-- Please hit me up in LinkedIn for any questions or suggestions for improvements!
+Database project
+
+Technology used: 
+- SQL
+- MySQL Server
+
+Project is done with SQL in a mySQL Server.
+This project is about a school database.
