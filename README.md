@@ -4,13 +4,12 @@ Profile
 -  University: TAFENSW
 -  Degree: Information Technology
 -  Major: Data Engineering
-----------------------------------------------------
+
 
 Skills
 -----------------------------------------------------
 Python, SQL, MongoDB, Data Structure and Algorithm, Machine Learning, HTML, sci-kit learn, python pandas.
 
-----------------------------------------------------
 
 LinkedIn
 -----------------------------------------------------
