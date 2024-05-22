@@ -11,7 +11,7 @@ Skills
 Python, SQL, MongoDB, Data Structure and Algorithm, Machine Learning, HTML, sci-kit learn, python pandas, tensorflow, keras.
 
 
-LinkedIn
+[LinkedIn]([url](https://www.linkedin.com/in/juninnio-harris))
 -----------------------------------------------------
 LinkedIn : https://www.linkedin.com/in/juninnio-harris
 
