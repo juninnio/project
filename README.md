@@ -19,7 +19,7 @@ LinkedIn : https://www.linkedin.com/in/juninnio-harris
 Certifications
 -----------------------------------------------------
 - Diploma of Information Technology
-- Machine Learning A-Z (Udemy) : can be foudn in LinkedIn
+- Machine Learning A-Z (Udemy) : can be found in LinkedIn
 
 <!---
 juninnio/juninnio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
