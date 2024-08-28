@@ -8,7 +8,7 @@ Profile
 
 Skills
 -----------------------------------------------------
-Python, SQL, MongoDB, Data Structure and Algorithm, Machine Learning, HTML, sci-kit learn, python pandas, tensorflow, keras.
+Python, MySQL, MongoDB, HTML, Machine Learning, Deep Learning, Git, CSS, NumPy, sci-kit learn, TensorFlow, Keras, Image Processing, data analytics and visualization.
 
 
 [LinkedIn]([url](https://www.linkedin.com/in/juninnio-harris))
