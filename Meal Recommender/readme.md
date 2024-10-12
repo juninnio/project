@@ -5,7 +5,8 @@ Project goal is to recommend meal to users by using hybrid approach with cosine 
 <br><br>
 Files Link: [https://drive.google.com/drive/folders/1hwElfg1APxlig3Npo1PSw3H9gzNwzFEh?usp=sharing](url)
 <br>
-code.ipynb are used to preprocess the datasets in parent folder (Meal Recommender).
+code.ipynb are used to preprocess the datasets in parent folder (Meal Recommender).<br>
+food.sql file is also included in parent folder.
 <br>
 The preprocessed datasets are saved in ml folder inside website folder along with ml pipeline script and sql script to create and insert data into database.
 <br><br>
