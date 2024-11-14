@@ -10,8 +10,10 @@ GitHub: github.com/juninnio
 # 🛠 Skills
 Languages/Libraries
 - Python, MySQL, MongoDB, HTML, Jinja, CSS, NumPy, Sci-kit Learn, TensorFlow, Keras
+  
 Core Skills
 - Machine Learning, Deep Learning, Image Processing, Data Analytics, Data Visualization
+  
 Software/Tools
 - Tableau, Git/GitHub, PySpark, TensorFlow
   
