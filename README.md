@@ -2,20 +2,20 @@
 Welcome to my GitHub! I’m Juninnio Harris, a passionate Data Engineer and Machine Learning enthusiast with a strong background in data analytics, deep learning, and software development. I’m currently pursuing my Bachelor of Information Technology (Data Engineering) at TAFE NSW, with a graduation date expected in December 2024. My GitHub showcases various projects that illustrate my expertise in machine learning, data engineering, and data visualization.
 
 # 📂 Profile
-## Education:
+ Education:
 - Bachelor of Information Technology (Data Engineering) | TAFE NSW, Sydney | Expected Graduation: December 2024
 - Diploma of Information Technology | TAFE NSW, Sydney | Graduated: March 2023 | GPA: 6.0
   
-## GitHub: github.com/juninnio
+ GitHub: github.com/juninnio
 
 # 🛠 Skills
-## Languages/Libraries
+ Languages/Libraries
 - Python, MySQL, MongoDB, HTML, Jinja, CSS, NumPy, Sci-kit Learn, TensorFlow, Keras
   
-## Core Skills
+ Core Skills
 - Machine Learning, Deep Learning, Image Processing, Data Analytics, Data Visualization
   
-## Software/Tools
+ Software/Tools
 - Tableau, Git/GitHub, PySpark, TensorFlow
   
 # 📊 Projects
