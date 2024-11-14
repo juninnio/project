@@ -1,6 +1,6 @@
 Brain MRI Classification using ResNet34 with Grad-CAM Visualization
 ----------------------------------------------------------------------
-Dataset link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+Dataset link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset<br>
 This project is focused on training a ResNet34 model to classify brain MRI images, providing Grad-CAM visualizations for interpretability. The model is designed with transfer learning techniques and image pre-processing methods to enhance feature detection and improve classification accuracy across multiple categories.
 
 Project Structure
